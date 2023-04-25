@@ -15,6 +15,5 @@ namespace JobOpening.Tests
       Assert.AreEqual("Fixing Bugs", testJob.Description);
       Assert.AreEqual("Email", testJob.ContactInfo);
     }
-   
   }
 }
